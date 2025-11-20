@@ -52,12 +52,12 @@ Detailed charts and tables showing the current concentration levels of individua
 
 A view that compares the AQI and pollutant levels across different monitoring centers in Delhi.
 
-![Screenshot of the Multi-Center Comparison](asset/\multi_center_comparison.png)
+![Screenshot of the Multi-Center Comparison](asset/multi_center_comparison.png)
 
 ### 7. About This Application
 
 Information about the project, the data sources used (e.g., data.gov.in API), and the machine learning model.
 
-![Screenshot of the About Section](assets\about_app.png)
+![Screenshot of the About Section](assets/about_app.png)
 
 ---
