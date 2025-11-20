@@ -28,7 +28,7 @@ The main landing page, providing an overview of the current AQI status and key m
 
 The section where users can input pollutant values or select a center to get an instant AQI prediction from the machine learning model.
 
-![Screenshot of the AQI Prediction Panel](assets/aqi_predictio.png.png)
+![Screenshot of the AQI Prediction Panel](assets/aqi_prediction.png.png)
 
 ### 3. 24-Hour Forecast
 
@@ -52,7 +52,7 @@ Detailed charts and tables showing the current concentration levels of individua
 
 A view that compares the AQI and pollutant levels across different monitoring centers in Delhi.
 
-![Screenshot of the Multi-Center Comparison](asset/multi_center_comparison.png.png)
+![Screenshot of the Multi-Center Comparison](assets/multi_center_comparison.png.png)
 
 ### 7. About This Application
 
