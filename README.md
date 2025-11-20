@@ -22,7 +22,7 @@ Below are the main features of the application. Please replace the placeholder t
 
 The main landing page, providing an overview of the current AQI status and key metrics.
 
-![Screenshot of the Home Dashboard](assets/home_dashboard.png)
+![Screenshot of the Home Dashboard](assets/home_dashboard.png.png)
 
 ### 2. AQI Prediction Panel
 
